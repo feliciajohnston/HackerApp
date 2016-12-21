@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu"
+        android:title="@string/menu_text" >
+        <!-- "file" submenu -->
+            <item android:id="@+id/my_features"
+                android:title="@string/my_features_text" />
+            <item android:id="@+id/get_features"
+                android:title="@string/get_features_text" />
+            <item android:id="@+id/get_credits"
+                android:title="@string/get_credits_text" />
+    </item>
+</menu>

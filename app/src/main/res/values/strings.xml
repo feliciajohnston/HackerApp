@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hacker</string>
+    <string name="menu_text">Menu</string>
+    <string name="settings_text">Settings</string>
+    <string name="my_features_text">My Features</string>
+    <string name="get_features_text">Get Features</string>
+    <string name="get_credits_text">Get Credits</string>
+    <string name="your_credits">Your Credits: </string>
+    <string name="credits_10_text">10 Credits</string>
+    <string name="credits_50_text">50 Credits</string>
+    <string name="credits_100_text">100 Credits</string>
+    <string name="credits_500_text">500 Credits</string>
+    <string name="credits_1000_text">1000 Credits</string>
+    <string name="credits_10_button_text">Watch Video</string>
+    <string name="credits_50_button_text">$</string>
+    <string name="credits_100_button_text">$$</string>
+    <string name="credits_500_button_text">$$$</string>
+    <string name="credits_1000_button_text">$$$$</string>
+    <string name="pentagon_text">PENTAGON</string>
+    <string name="nasa_text">N.A.S.A.</string>
+    <string name="mib_text">M.I.B.</string>
+    <string name="fbi_text">F.B.I.</string>
+    <string name="database_text">Database:</string>
+    <string name="popup_text">Pop-up:</string>
+    <string name="granted_text">ACCESS GRANTED</string>
+    <string name="denied_text">ACCESS DENIED</string>n
+
+
+</resources>
